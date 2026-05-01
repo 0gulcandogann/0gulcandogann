@@ -20,9 +20,7 @@
 
 ## 🔗 Connect with Me
 
-[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://linkedin.com/in/oğulcan-doğan-a8b18420b)
-
-[![Twitter](https://skillicons.dev/icons?i=twitter)](https://twitter.com/0gulcandogan)
+[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://linkedin.com/in/oğulcan-doğan-a8b18420b) [![Twitter](https://skillicons.dev/icons?i=twitter)](https://twitter.com/0gulcandogan)
 
 ---
 ## 🧰 Tech Stack
