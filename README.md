@@ -27,29 +27,15 @@
 
 ### ☁️ Cloud & Infrastructure
 
-![AWS](https://skillicons.dev/icons?i=aws)
-
-![Azure](https://skillicons.dev/icons?i=azure)
-
-![GCP](https://skillicons.dev/icons?i=gcp)
-
-![Linux](https://skillicons.dev/icons?i=linux)
+![AWS](https://skillicons.dev/icons?i=aws) ![Azure](https://skillicons.dev/icons?i=azure) ![GCP](https://skillicons.dev/icons?i=gcp) ![Linux](https://skillicons.dev/icons?i=linux)
 
 ### 🚀 Containers & Orchestration
 
-![Docker](https://skillicons.dev/icons?i=docker)
-
-![Kubernetes](https://skillicons.dev/icons?i=kubernetes)
+![Docker](https://skillicons.dev/icons?i=docker) ![Kubernetes](https://skillicons.dev/icons?i=kubernetes)
 
 ### 💻 Languages & Development
 
-![Python](https://skillicons.dev/icons?i=python)
-
-![Go](https://skillicons.dev/icons?i=go)
-
-![C++](https://skillicons.dev/icons?i=cpp)
-
-![Node.js](https://skillicons.dev/icons?i=nodejs)
+![Python](https://skillicons.dev/icons?i=python) ![Go](https://skillicons.dev/icons?i=go) ![C++](https://skillicons.dev/icons?i=cpp) ![Node.js](https://skillicons.dev/icons?i=nodejs)
 
 
 ### 🔁 CI/CD, GitOps & Observability
