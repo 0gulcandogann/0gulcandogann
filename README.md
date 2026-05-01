@@ -40,28 +40,11 @@
 
 ### 🔁 CI/CD, GitOps & Observability
 
-![GitHub Actions](https://skillicons.dev/icons?i=githubactions)
+![GitHub Actions](https://skillicons.dev/icons?i=githubactions) ![GitLab CI](https://skillicons.dev/icons?i=gitlab) ![Jenkins](https://skillicons.dev/icons?i=jenkins) ![Prometheus](https://skillicons.dev/icons?i=prometheus) ![Grafana](https://skillicons.dev/icons?i=grafana)
 
-![GitLab CI](https://skillicons.dev/icons?i=gitlab)
-
-![Jenkins](https://skillicons.dev/icons?i=jenkins)
-
-![Prometheus](https://skillicons.dev/icons?i=prometheus)
-
-![Grafana](https://skillicons.dev/icons?i=grafana)
-
-<img src="https://raw.githubusercontent.com/cncf/artwork/main/projects/argo/icon/color/argo-icon-color.svg" width="44" />
-
-![Terraform](https://skillicons.dev/icons?i=terraform)
-
-![Ansible](https://skillicons.dev/icons?i=ansible)
-
-![Postman](https://skillicons.dev/icons?i=postman)
+<img src="https://raw.githubusercontent.com/cncf/artwork/main/projects/argo/icon/color/argo-icon-color.svg" width="44" /> ![Terraform](https://skillicons.dev/icons?i=terraform) ![Ansible](https://skillicons.dev/icons?i=ansible) ![Postman](https://skillicons.dev/icons?i=postman)
 
 ---
 
 ## 📊 GitHub Stats
-
-![Oğulcan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=0gulcandogan&show_icons=true&theme=tokyonight&hide_border=true)
-
 ![visitors](https://count.getloli.com/get/@0gulcandogann?theme=rule34) 
