@@ -15,7 +15,7 @@
 
 - 🧠 Interested in **GenAI, serverless security, and Red Team automation**
 
-- 📫 Reach me at: **ogulcandogannz@outlook.com**
+- 📫 Reach me at: **ogulcandoganzz@gmail.com**
 ---
 
 ## 🔗 Connect with Me
