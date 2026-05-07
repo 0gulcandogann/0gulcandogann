@@ -1,6 +1,6 @@
 # Oğulcan Doğan 
 
-**Cloud Security Engineer | DevSecOps | Cloud Game Developer**                                                                       ![AWS Community Builder](https://img.shields.io/badge/AWS-Community%20Builder-black?style=for-the-badge&logo=amazonaws&logoColor=FF9900)
+**Cloud Security Engineer | DevSecOps | Cloud Game Developer**&nbsp; ![AWS Community Builder](https://img.shields.io/badge/AWS-Community%20Builder-black?style=for-the-badge&logo=amazonaws&logoColor=FF9900)
 
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F78C6C&width=435&lines=🚀+Cloud+Security+Enthusiast;🎮+Cloud-Native+Game+Developer;☁️+AWS+Certified+%7C+DevSecOps+Architect)                                                        
 
