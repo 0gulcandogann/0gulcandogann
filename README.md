@@ -1,4 +1,4 @@
-# Oğulcan Doğan
+# Oğulcan Doğan ![AWS Community Builder](https://img.shields.io/badge/AWS-Community%20Builder-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
 
 **Cloud Security Engineer | DevSecOps | Cloud Game Developer**
 
