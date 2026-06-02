@@ -48,3 +48,5 @@
 
 ## 📊 GitHub Stats
 ![visitors](https://count.getloli.com/get/@0gulcandogann?theme=rule34) 
+
+![gaming](https://github.com/0gulcandogann/0gulcandogann/blob/main/space-shooter.gif)
