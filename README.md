@@ -44,4 +44,4 @@
 
 <img src="https://raw.githubusercontent.com/cncf/artwork/main/projects/argo/icon/color/argo-icon-color.svg" width="44" /> ![Terraform](https://skillicons.dev/icons?i=terraform) ![Ansible](https://skillicons.dev/icons?i=ansible) ![Postman](https://skillicons.dev/icons?i=postman)
 
-![gaming](https://github.com/0gulcandogann/0gulcandogann/blob/main/space-shooter.gif)
+![gaming](https://github.com/0gulcandogann/0gulcandogann/blob/main/cat-space.png)
