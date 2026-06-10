@@ -5,13 +5,17 @@
 ---
 ## 👨‍💻 About Me
 
-- 🛡️ Passionate about **Cloud Security** and **DevSecOps**
+- ☁️ Cloud Security Engineer & AWS Solutions Architect
 
-- 🎮 Developing **cloud-native multiplayer games**
+- 🛡️ Focused on Cloud Security, DevSecOps, and Security Automation
 
-- ☁️ AWS Certified Solutions Architect – Associate
+- 🎮 Building cloud-native multiplayer games and scalable AWS architectures
 
-- 🧠 Interested in **GenAI, serverless security, and Red Team automation**
+- 🤖 Exploring GenAI, autonomous security systems, and AI-powered defense mechanisms
+
+- 🔍 Interested in Cloud Research, Vulnerability Research, Code Review
+
+- 🚀 Passionate about designing secure, resilient, and serverless cloud solutions
 
 - 📫 Reach me at: **ogulcandoganzz@gmail.com**
 ---
