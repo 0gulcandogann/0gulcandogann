@@ -15,7 +15,6 @@
 
 - 📫 Reach me at: **ogulcandoganzz@gmail.com**
 ---
----
 ## 🧰 Tech Stack
 
 ### ☁️ Cloud & Infrastructure
