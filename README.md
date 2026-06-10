@@ -1,7 +1,6 @@
 # Cloud Security Engineer | DevSecOps | Cloud Game Developer
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F78C6C&width=435&lines=🚀+Cloud+Security+Enthusiast;🎮+Cloud-Native+Game+Developer;☁️+AWS+Certified+%7C+DevSecOps+Architect)                                                        
-
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F78C6C&width=435&lines=🚀+Cloud+Security+Enthusiast;🎮+Cloud-Native+Game+Developer;☁️+AWS+Certified+%7C+DevSecOps+Architect)
 ---
 ## 👨‍💻 About Me
 
