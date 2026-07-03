@@ -38,5 +38,3 @@
 ![GitHub Actions](https://skillicons.dev/icons?i=githubactions) ![GitLab CI](https://skillicons.dev/icons?i=gitlab) ![Jenkins](https://skillicons.dev/icons?i=jenkins) ![Prometheus](https://skillicons.dev/icons?i=prometheus) ![Grafana](https://skillicons.dev/icons?i=grafana)
 
 <img src="https://raw.githubusercontent.com/cncf/artwork/main/projects/argo/icon/color/argo-icon-color.svg" width="44" /> ![Terraform](https://skillicons.dev/icons?i=terraform) ![Ansible](https://skillicons.dev/icons?i=ansible) ![Postman](https://skillicons.dev/icons?i=postman)
-
-![gaming](https://github.com/0gulcandogann/0gulcandogann/blob/main/cat-space.png)
