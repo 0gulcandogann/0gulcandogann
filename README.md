@@ -70,8 +70,6 @@
 ```
 guest@cloud-n:~$ contact --show
 > email   : ogulcandoganzz@gmail.com
-> status  : open to Cloud Security / DevSecOps opportunities
-> project : Cloud-N (cloud-native multiplayer game dev)
 ```
 
 <div align="center">
