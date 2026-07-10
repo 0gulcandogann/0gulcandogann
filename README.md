@@ -12,8 +12,6 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=F96D00&center=true&vCenter=true&width=650&lines=Cloud+Security+Engineer+%7C+AWS+Solutions+Architect;DevSecOps+%26+Security+Automation;Building+Cloud-Native+Multiplayer+Games)]()
 
-![views](https://komarev.com/ghpvc/?username=0gulcandogann&color=F96D00&style=for-the-badge&label=PROFILE+VIEWS)
-
 </div>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=F96D00&height=3" width="100%"/>
