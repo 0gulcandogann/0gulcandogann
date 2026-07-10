@@ -71,9 +71,3 @@
 guest@cloud-n:~$ contact --show
 > email   : ogulcandoganzz@gmail.com
 ```
-
-<div align="center">
-
-*"Securing the cloud, one deploy at a time."*
-
-</div>
