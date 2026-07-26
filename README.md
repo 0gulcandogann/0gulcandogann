@@ -1,15 +1,5 @@
 <div align="center">
 
-```
- ██████╗ █████╗ ███╗   ██╗      ██████╗ ███████╗    ███████╗███████╗ ██████╗██╗   ██╗██████╗ ███████╗
-██╔════╝██╔══██╗████╗  ██║      ██╔══██╗██╔════╝    ██╔════╝██╔════╝██╔════╝██║   ██║██╔══██╗██╔════╝
-██║     ███████║██╔██╗ ██║█████╗██████╔╝█████╗█████╗███████╗█████╗  ██║     ██║   ██║██████╔╝█████╗  
-██║     ██╔══██║██║╚██╗██║╚════╝██╔══██╗██╔══╝╚════╝╚════██║██╔══╝  ██║     ██║   ██║██╔══██╗██╔══╝  
-╚██████╗██║  ██║██║ ╚████║      ██████╔╝███████╗    ███████║███████╗╚██████╗╚██████╔╝██║  ██║███████╗
- ╚═════╝╚═╝  ╚═╝╚═╝  ╚═══╝      ╚═════╝ ╚══════╝    ╚══════╝╚══════╝ ╚═════╝ ╚═════╝ ╚═╝  ╚═╝╚══════╝
-                                                                                                     
-```
-
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=F96D00&center=true&vCenter=true&width=650&lines=Cloud+Security+Engineer+%7C+AWS+Solutions+Architect;DevSecOps+%26+Security+Automation;Building+Cloud-Native+Multiplayer+Games)]()
 
 </div>
@@ -34,19 +24,21 @@
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=F96D00&height=3" width="100%"/>
 
-### `~/tech-stack/cloud-and-infrastructure`
+### `~/tech-stack`
+
+**Cloud & Infrastructure**
 
 ![AWS](https://img.shields.io/badge/AWS-222831?style=for-the-badge&logo=amazonaws&logoColor=F96D00) ![Azure](https://img.shields.io/badge/Azure-222831?style=for-the-badge&logo=microsoftazure&logoColor=F96D00) ![GCP](https://img.shields.io/badge/GCP-222831?style=for-the-badge&logo=googlecloud&logoColor=F96D00) ![Linux](https://img.shields.io/badge/Linux-222831?style=for-the-badge&logo=linux&logoColor=F96D00)
 
-### `~/tech-stack/containers-and-orchestration`
+**Containers & Orchestration**
 
 ![Docker](https://img.shields.io/badge/Docker-222831?style=for-the-badge&logo=docker&logoColor=F96D00) ![Kubernetes](https://img.shields.io/badge/Kubernetes-222831?style=for-the-badge&logo=kubernetes&logoColor=F96D00)
 
-### `~/tech-stack/languages-and-development`
+**Languages & Development**
 
 ![Python](https://img.shields.io/badge/Python-222831?style=for-the-badge&logo=python&logoColor=F96D00) ![Go](https://img.shields.io/badge/Go-222831?style=for-the-badge&logo=go&logoColor=F96D00) ![C++](https://img.shields.io/badge/C%2B%2B-222831?style=for-the-badge&logo=cplusplus&logoColor=F96D00) ![Node.js](https://img.shields.io/badge/Node.js-222831?style=for-the-badge&logo=nodedotjs&logoColor=F96D00)
 
-### `~/tech-stack/cicd-gitops-and-observability`
+**CI/CD, GitOps & Observability**
 
 ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-222831?style=for-the-badge&logo=githubactions&logoColor=F96D00) ![GitLab CI](https://img.shields.io/badge/GitLab%20CI-222831?style=for-the-badge&logo=gitlab&logoColor=F96D00) ![Jenkins](https://img.shields.io/badge/Jenkins-222831?style=for-the-badge&logo=jenkins&logoColor=F96D00) ![ArgoCD](https://img.shields.io/badge/ArgoCD-222831?style=for-the-badge&logo=argo&logoColor=F96D00) ![Terraform](https://img.shields.io/badge/Terraform-222831?style=for-the-badge&logo=terraform&logoColor=F96D00) ![Ansible](https://img.shields.io/badge/Ansible-222831?style=for-the-badge&logo=ansible&logoColor=F96D00) ![Prometheus](https://img.shields.io/badge/Prometheus-222831?style=for-the-badge&logo=prometheus&logoColor=F96D00) ![Grafana](https://img.shields.io/badge/Grafana-222831?style=for-the-badge&logo=grafana&logoColor=F96D00) ![Snyk](https://img.shields.io/badge/Snyk-222831?style=for-the-badge&logo=snyk&logoColor=F96D00)
 
@@ -63,9 +55,15 @@
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=F96D00&height=3" width="100%"/>
 
-### `~/contact --show`
+### `~/contact`
 
 ```
 guest@cloud-n:~$ contact --show
 > email   : ogulcandoganzz@gmail.com
+> github  : github.com/0gulcandogann
 ```
+
+<div align="center">
+<a href="https://github.com/0gulcandogann"><img src="https://img.shields.io/badge/GitHub-222831?style=for-the-badge&logo=github&logoColor=F96D00" /></a>
+<a href="mailto:ogulcandoganzz@gmail.com"><img src="https://img.shields.io/badge/Email-222831?style=for-the-badge&logo=gmail&logoColor=F96D00" /></a>
+</div>
