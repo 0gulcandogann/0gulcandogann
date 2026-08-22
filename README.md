@@ -58,5 +58,5 @@
 ```
 guest@cloud-n:~$ contact --show
 > email   : ogulcandoganzz@gmail.com
-> github  : github.com/0gulcandogann
+> prerson : depthcloud.io
 ```
