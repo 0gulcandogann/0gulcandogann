@@ -1,62 +1,24 @@
-<div align="center">
+<img src="assets/header.svg" alt="0gulcandogann, cloud security engineer and AWS solutions architect" width="100%" />
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=F96D00&center=true&vCenter=true&width=650&lines=Cloud+Security+Engineer+%7C+AWS+Solutions+Architect;DevSecOps+%26+Security+Automation;Building+Cloud-Native+Multiplayer+Games)]()
+<img src="assets/about.svg" alt="Focus: cloud security, DevSecOps, security automation. Building: cloud-native multiplayer games and scalable AWS infrastructure. Exploring: GenAI and AI-powered defense systems. Interests: cloud research, vulnerability research, code review." width="100%" />
 
-</div>
+## Projects
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=F96D00&height=3" width="100%"/>
+<table>
+<tr>
+<td width="50%"><a href="https://github.com/0gulcandogann/awsherlock"><img src="assets/project-awsherlock.svg" alt="awsherlock: open-source AWS security scanner" /></a></td>
+<td width="50%"><a href="https://github.com/0gulcandogann/cervus"><img src="assets/project-cervus.svg" alt="cervus: encrypted AWS credentials and role switching" /></a></td>
+</tr>
+<tr>
+<td width="50%"><a href="https://github.com/0gulcandogann/lazytown-lambda-cold-starts"><img src="assets/project-lazytown-lambda-cold-starts.svg" alt="lazytown-lambda-cold-starts: Lambda cold start measurements" /></a></td>
+<td width="50%"><a href="https://github.com/0gulcandogann/asus-rog-monitor"><img src="assets/project-asus-rog-monitor.svg" alt="asus-rog-monitor: system dashboard for ASUS and ROG laptops" /></a></td>
+</tr>
+</table>
 
-### `~/whoami`
+## Tech stack
 
-```
-┌───────────────────────────────────────────────────────────────────┐
-│ guest@cloud-n                                                     │
-│ ---------------                                                   │
-│ OS        : Cloud Security Engineer & AWS Solutions Architect     │
-│ Focus     : Cloud Security, DevSecOps, Security Automation        │
-│ Projects  : Cloud-native multiplayer games & scalable AWS infra   │
-│ Exploring : GenAI, autonomous & AI-powered defense systems        │
-│ Interests : Cloud Research, Vulnerability Research, Code Review   │
-│ Mission   : Secure, resilient, serverless cloud solutions         │
-│ Contact   : ogulcandoganzz@gmail.com                              │
-└───────────────────────────────────────────────────────────────────┘
-```
+<img src="assets/tech-stack.svg" alt="Tech stack: AWS, Azure, GCP, Linux, Docker, Kubernetes, Python, Go, C++, Node.js, GitHub Actions, GitLab CI, Jenkins, ArgoCD, Terraform, Ansible, Prometheus, Grafana, Snyk" width="100%" />
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=F96D00&height=3" width="100%"/>
+## Contact
 
-### `~/tech-stack`
-
-**Cloud & Infrastructure**
-
-![AWS](https://img.shields.io/badge/AWS-222831?style=for-the-badge&logo=amazonaws&logoColor=F96D00) ![Azure](https://img.shields.io/badge/Azure-222831?style=for-the-badge&logo=microsoftazure&logoColor=F96D00) ![GCP](https://img.shields.io/badge/GCP-222831?style=for-the-badge&logo=googlecloud&logoColor=F96D00) ![Linux](https://img.shields.io/badge/Linux-222831?style=for-the-badge&logo=linux&logoColor=F96D00)
-
-**Containers & Orchestration**
-
-![Docker](https://img.shields.io/badge/Docker-222831?style=for-the-badge&logo=docker&logoColor=F96D00) ![Kubernetes](https://img.shields.io/badge/Kubernetes-222831?style=for-the-badge&logo=kubernetes&logoColor=F96D00)
-
-**Languages & Development**
-
-![Python](https://img.shields.io/badge/Python-222831?style=for-the-badge&logo=python&logoColor=F96D00) ![Go](https://img.shields.io/badge/Go-222831?style=for-the-badge&logo=go&logoColor=F96D00) ![C++](https://img.shields.io/badge/C%2B%2B-222831?style=for-the-badge&logo=cplusplus&logoColor=F96D00) ![Node.js](https://img.shields.io/badge/Node.js-222831?style=for-the-badge&logo=nodedotjs&logoColor=F96D00)
-
-**CI/CD, GitOps & Observability**
-
-![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-222831?style=for-the-badge&logo=githubactions&logoColor=F96D00) ![GitLab CI](https://img.shields.io/badge/GitLab%20CI-222831?style=for-the-badge&logo=gitlab&logoColor=F96D00) ![Jenkins](https://img.shields.io/badge/Jenkins-222831?style=for-the-badge&logo=jenkins&logoColor=F96D00) ![ArgoCD](https://img.shields.io/badge/ArgoCD-222831?style=for-the-badge&logo=argo&logoColor=F96D00) ![Terraform](https://img.shields.io/badge/Terraform-222831?style=for-the-badge&logo=terraform&logoColor=F96D00) ![Ansible](https://img.shields.io/badge/Ansible-222831?style=for-the-badge&logo=ansible&logoColor=F96D00) ![Prometheus](https://img.shields.io/badge/Prometheus-222831?style=for-the-badge&logo=prometheus&logoColor=F96D00) ![Grafana](https://img.shields.io/badge/Grafana-222831?style=for-the-badge&logo=grafana&logoColor=F96D00) ![Snyk](https://img.shields.io/badge/Snyk-222831?style=for-the-badge&logo=snyk&logoColor=F96D00)
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=F96D00&height=3" width="100%"/>
-
-### `~/github-stats`
-
-<div align="center">
-<img src="https://github-stats-extended.vercel.app/api?username=0gulcandogann&show_icons=true&hide_border=true&bg_color=222831&title_color=F96D00&text_color=F2F2F2&icon_color=F96D00" width="49%" />
-<img src="https://github-stats-extended.vercel.app/api/top-langs/?username=0gulcandogann&layout=compact&hide_border=true&bg_color=222831&title_color=F96D00&text_color=F2F2F2" width="30%" />
-</div>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=F96D00&height=3" width="100%"/>
-
-### `~/contact`
-
-```
-guest@cloud-n:~$ contact --show
-> email   : ogulcandoganzz@gmail.com
-> prerson : depthcloud.io
-```
+Email [ogulcandoganzz@gmail.com](mailto:ogulcandoganzz@gmail.com) or visit [depthcloud.io](https://depthcloud.io).
